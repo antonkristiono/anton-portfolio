@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'an.png',
   paragraphOne: " Hello my name is Anton Kristiono, i am a software engineer. For now I am working on various web applications. Therefore I try to optimaze Javascript for Front End and Beck End. Of course im interested in serverless and jamstack",
-  paragraphTwo: "For fast required application requests, I use django and various python environment. I'm currently interested in learning Rust, because over the years Rust has been the most loved on stackoverflow, and several articles say if you want to become a better programmer learn Rust.",
+  paragraphTwo: "I'm currently interested in learning Rust, because over the years Rust has been the most loved on stackoverflow, and several articles say if you want to become a better programmer learn Rust.",
   paragraphThree: '-',
   resume: 'https://my.indeed.com/p/antonk-9qzcd41/preview', // if no resume, the button will not show up
 };
